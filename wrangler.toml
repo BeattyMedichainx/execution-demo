@@ -1,7 +1,0 @@
-name = "execution-demo"
-main = "src/index.js"
-compatibility_date = "2026-03-21"
-
-routes = [
-  { pattern = "demo.yllil.com/*", zone_name = "yllil.com" }
-]
